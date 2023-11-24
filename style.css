@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.menu{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+h1{
+    padding: 0px 50px 0px 50px;
+    color: #0E0578;
+    font-family: Poppins;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal; 
+}
+
+.menu ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    
+}
+
+.menu li{
+    color: #686565;
+    padding: 50px;
+    font-family: Poppins;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal; 
+    display: flex;
+    padding-right: 50px;
+    
+}
+
+.info{
+    
+}
+
+#welcome  {
+    color: #2000E7;
+    font-family: Poppins;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal; 
+}
+
+
+#hithere{
+    color: #2000E7;
+    font-family: Poppins;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal; 
+    width: 447px;
+}
+
+#lorem {
+    display: flex;
+    width: 616px;
+    height: 72px;
+    flex-shrink: 0; 
+    color: #383838;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal; 
+}
+.info{
+    margin-top: 120px;
+    margin-left: 30px;
+}
+
+.buttons{
+    display: flex;
+    flex-direction: row;
+}
+#button1{
+    display: flex;
+    width: 246px;
+    height: 72px;
+    margin: 100px 75px 5004px 0px;
+    flex-shrink: 0; 
+    border-radius: 10px;
+    background: #2000E7;
+    box-shadow: 11px 21px 15px 6px rgba(0, 0, 0, 0.25); 
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal; 
+    justify-content: center;
+    align-items: center;
+}
+
+#button2{
+    display: flex;
+    width: 246px;
+    height: 72px;
+    margin: 100px 1117px 5004px 0px;
+    flex-shrink: 0; 
+    border-radius: 10px;
+    border: 2px solid #2000E7;;
+    background: rgba(32, 0, 231, 0.04);
+    box-shadow: 11px 21px 15px 6px rgba(0, 0, 0, 0.25); 
+    color:  #2000E7;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal; 
+    justify-content: center;
+    align-items: center;
+}
